@@ -1,0 +1,7 @@
+.rightRow {
+   flex-basis: 60%;
+   height: 100%;
+   padding: 30px 120px;
+   background: #efeef4;
+   overflow: scroll;
+}
